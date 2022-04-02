@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\bin\Debug\net5.0\Task13.exe
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\bin\Debug\net5.0\Task13.deps.json
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\bin\Debug\net5.0\Task13.runtimeconfig.json
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\bin\Debug\net5.0\Task13.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\bin\Debug\net5.0\Task13.dll
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\bin\Debug\net5.0\ref\Task13.dll
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\bin\Debug\net5.0\Task13.pdb
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\Task13.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\Task13.AssemblyInfo.cs
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\Task13.dll
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\ref\Task13.dll
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\Task13.pdb
+C:\Users\Asus\Desktop\EvTapshiriqi2\Task13\obj\Debug\net5.0\Task13.genruntimeconfig.cache
